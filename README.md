@@ -1,1 +1,1 @@
-This course exposed on how to read and save python code into various type like csv and parquet
+This are some of my collections of project done in DataCamp related to data engineering
